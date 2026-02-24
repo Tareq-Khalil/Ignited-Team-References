@@ -58,5 +58,5 @@ A complete presentation clearly explaining the idea, soltion, and value proposit
 
 - **Flyer & Banner Design:** Asser  
 - **Website Development:** Tareq *(Open for additional contributors)*  
-- **Game Development:** Daniel, Loay  
+- **Game Development:** Daniel, Loay  *(Open for additional contributors)*  
 - **Game Assets & Visual Design:** Amro  
