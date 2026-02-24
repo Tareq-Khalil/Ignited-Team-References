@@ -52,3 +52,11 @@ Digital designs for the flyer and banner.
   **Tuesday — 03/03/2026**  
 A complete presentation clearly explaining the idea, soltion, and value proposition.
 
+---
+
+## Teams
+
+- **Flyer & Banner Design:** Asser  
+- **Website Development:** Tareq *(Open for additional contributors)*  
+- **Game Development:** Daniel, Loay  
+- **Game Assets & Visual Design:** Amro  
