@@ -24,7 +24,7 @@
 
 - [x] **Sunday — 22/02/2026 — 10:00 PM**  
 
-- [x] **Tuesday — 24/02/2026 — 10:00 PM**  (Running)
+- [x] **Tuesday — 24/02/2026 — 10:00 PM** 
 
 ---
 
@@ -51,3 +51,4 @@ Digital designs for the flyer and banner.
 - [ ] **Project Presentation**  
   **Tuesday — 03/03/2026**  
 A complete presentation clearly explaining the idea, soltion, and value proposition.
+
