@@ -40,7 +40,7 @@
 
 ## Project Deadlines
 
-- [ ] **Business Plan Sheet(All members)** 
+- [ ] **Business Plan Sheet(All members)**  
   **Friday — 27/02/2026**  
   Digital designs for the flyer and banner. Finalized financials, strategy, competitive & market analysis.
 
