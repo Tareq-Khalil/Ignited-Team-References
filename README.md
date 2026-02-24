@@ -16,14 +16,36 @@
 ![Dispatch Reference](https://tse2.mm.bing.net/th/id/OIP.FYzJPtsAiZY8o1UF0wwQzwHaEK?cb=defcachec2&rs=1&pid=ImgDetMain&o=7&rm=3)
 
 
-## Session Tracker
+## Project Timeline
 
 ### February 2026
-- [x] Tue — 17/02/2026 — 5:00 PM
-- [x] Sun — 22/02/2026 — 10:00 PM
-- [x] Tue — 24/02/2026 — 10:00 PM (Now)
+
+- [x] **Tuesday — 17/02/2026 — 5:00 PM**  
+
+- [x] **Sunday — 22/02/2026 — 10:00 PM**  
+
+- [x] **Tuesday — 24/02/2026 — 10:00 PM**  (Running)
+
+---
 
 ### March 2026
-- [ ] Sun — 01/03/2026 — 10:00 PM
-- [ ] Tue — 03/03/2026 — 10:00 PM
-- [ ] Sun — 08/03/2026 — 10:00 PM
+
+- [ ] **Sunday — 01/03/2026 — 10:00 PM**  
+
+- [ ] **Tuesday — 03/03/2026 — 10:00 PM**  
+
+- [ ] **Sunday — 08/03/2026 — 10:00 PM**  
+
+---
+
+## Project Deadlines
+
+- **Business Plan Sheet**  
+  **Friday — 27/02/2026**  
+  Finalized financials, strategy, competitive & market analysis.
+
+- **Flyer and Banner Design Completion**  
+  **Sunday — 01/03/2026**  
+
+- **Project Presentation**  
+  **Tuesday — 03/03/2026**  
