@@ -60,3 +60,5 @@ A complete presentation clearly explaining the idea, soltion, and value proposit
 - **Website Development:** Tareq *(Open for additional contributors)*  
 - **Game Development:** Daniel, Loay  *(Open for additional contributors)*  
 - **Game Assets & Visual Design:** Amro  
+- **Presentation:** Mohamed, Asser, Kevin, Youssef
+- **Video:** Loay, Amro, Youssef
