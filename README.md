@@ -30,7 +30,7 @@
 
 ### March 2026
 
-- [ ] **Sunday — 01/03/2026 — 10:00 PM**  
+- [x] **Sunday — 01/03/2026 — 10:00 PM**  
 
 - [ ] **Tuesday — 03/03/2026 — 10:00 PM**  
 
@@ -40,7 +40,7 @@
 
 ## Project Deadlines
 
-- [ ] **Business Plan Sheet(All members)**  
+- [x] **Business Plan Sheet(All members)**  
   **Friday — 27/02/2026 - 12 AM**  
   Digital designs for the flyer and banner. Finalized financials, strategy, competitive & market analysis.
 
